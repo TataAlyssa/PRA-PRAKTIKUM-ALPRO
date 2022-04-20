@@ -1,0 +1,4 @@
+Buatlah program untuk menginput kan SKS beserta Matakuliah Mahasiswa, dengan biaya per SKS 120000 dan dikarenakan pandemi total biaya SKS didiskon 10%+5%, output program diharapkan ada Nama, NIM Mahasiswa, daftar Matakuliah, jumlah SKS dan total pembayaran
+.
+.
+Diharuskan mengimplementasikan fungsi Rekursif pada program anda!!
